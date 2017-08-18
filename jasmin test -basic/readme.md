@@ -13,7 +13,7 @@ so there will be a ../node_modules/jasmine-node/bin/jasmine-node file
 currently the javascript test is in <src>/javascript/demo
 and you run the tests with
 
->../node_modules/jasmine-node/bin/jasmine-node --verbose --junitreport --noColor  spec
+>node_modules/jasmine-node/bin/jasmine-node --verbose --junitreport --noColor  spec
 
 this creates junit output which can be loaded using the jenkins junit plugin
 
