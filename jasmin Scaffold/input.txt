@@ -20,3 +20,21 @@ group level1
 		group level3 alternative option
 			test 4 
 			test 5 
+a suite
+   when b
+      when c
+         should d
+      when e
+         should f
+   when g
+      should h
+i suite
+   when j
+      should k
+
+a unit of code
+	when correctly initialised
+		should run the desired functionality
+		should run some more desired functionality
+	when incorrectly initialised
+		should return the correct error

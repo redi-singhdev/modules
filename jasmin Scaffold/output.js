@@ -86,3 +86,75 @@ describe('group level1', function() {
 
 });
 
+it('a suite', function() {
+
+});
+
+it('   when b', function() {
+
+});
+
+it('      when c', function() {
+
+});
+
+it('         should d', function() {
+
+});
+
+it('      when e', function() {
+
+});
+
+it('         should f', function() {
+
+});
+
+it('   when g', function() {
+
+});
+
+it('      should h', function() {
+
+});
+
+it('i suite', function() {
+
+});
+
+it('   when j', function() {
+
+});
+
+it('      should k', function() {
+
+});
+
+it('', function() {
+
+});
+
+describe('a unit of code', function() {
+
+	describe('when correctly initialised', function() {
+
+		it('should run the desired functionality', function() {
+
+		});
+
+		it('should run some more desired functionality', function() {
+
+		});
+
+	});
+
+	describe('when incorrectly initialised', function() {
+
+		it('should return the correct error', function() {
+
+		});
+
+	});
+
+});
+
