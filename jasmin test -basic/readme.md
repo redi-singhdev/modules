@@ -20,6 +20,7 @@ this creates junit output which can be loaded using the jenkins junit plugin
 There is also javascript coverage using istanbul
 
 >sudo npm install -g istanbul
+*-----
 >> this is going to install at following location 
 >>C:\Users\U6020512\AppData\Roaming\npm\istanbul -> C:\Users\U6020512\AppData\Roaming\npm\node_modules\istanbul\lib\cli.js
 make sure your run the istanbul from the one installed
