@@ -8,3 +8,15 @@ test it
 		should run the desired functionality
 	when service not exist
 		should return the correct error
+group level1
+	group level2 
+		group level3
+			test 1 
+			test 2
+			test 3 
+			test 4 
+			test 5 
+	group level2 option2
+		group level3 alternative option
+			test 4 
+			test 5 

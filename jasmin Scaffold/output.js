@@ -38,3 +38,51 @@ describe('test it', function() {
 
 });
 
+describe('group level1', function() {
+
+	describe('group level2 ', function() {
+
+		describe('group level3', function() {
+
+			it('test 1 ', function() {
+
+			});
+
+			it('test 2', function() {
+
+			});
+
+			it('test 3 ', function() {
+
+			});
+
+			it('test 4 ', function() {
+
+			});
+
+			it('test 5 ', function() {
+
+			});
+
+		});
+
+	});
+
+	describe('group level2 option2', function() {
+
+		describe('group level3 alternative option', function() {
+
+			it('test 4 ', function() {
+
+			});
+
+			it('test 5 ', function() {
+
+			});
+
+		});
+
+	});
+
+});
+
