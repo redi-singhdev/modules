@@ -1,0 +1,10 @@
+a unit of code
+	when correctly initialised
+		should run the desired functionality
+	when incorrectly initialised
+		should return the correct error
+test it
+	when service exist 
+		should run the desired functionality
+	when service not exist
+		should return the correct error
